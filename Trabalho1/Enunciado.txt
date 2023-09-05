@@ -1,0 +1,3 @@
+Calculadora Estatistica: calculos basicos(media, mediana,moda, variancia, desvio padrao etc.) + Teste de hipotese
+
+Alunos: Bruno e George
